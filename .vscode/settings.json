@@ -2,5 +2,6 @@
     "files.associations": {
         "iostream": "cpp",
         "iosfwd": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "C:/Users/skar0/OneDrive/Documents/Vs_code/Image_Processing/vcpkg/ports/7zip"
 }
